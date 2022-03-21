@@ -1,0 +1,8 @@
+1.organiser son appli avec un fichier navigation
+    HomeNavigator = tout les ecrans user connect
+    AuthNavigato = not connect
+    le drawer c la bar de navigation latérale
+
+
+    
+2.dans le dossier screens creer un dossier pour chaque composant
