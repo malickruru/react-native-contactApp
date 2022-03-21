@@ -6,3 +6,4 @@
 
     
 2.dans le dossier screens creer un dossier pour chaque composant
+3.dans le dossier src/context créer se qui contiendra les états et les variables globales de notre applications
